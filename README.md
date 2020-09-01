@@ -2,6 +2,9 @@
 
 > A Vue.js project demo,customizing message in a project.
 
+## Show
+![show demo](https://images.gitee.com/uploads/images/2020/0901/144445_2aba500b_5149688.gif "custom-message.gif")
+
 ## Build Setup
 
 ``` bash
